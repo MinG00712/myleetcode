@@ -1,0 +1,4 @@
+/home/minji/CLionProjects/leetcode/build/CMakeFiles/test.dir
+/home/minji/CLionProjects/leetcode/build/CMakeFiles/test1.dir
+/home/minji/CLionProjects/leetcode/build/CMakeFiles/edit_cache.dir
+/home/minji/CLionProjects/leetcode/build/CMakeFiles/rebuild_cache.dir

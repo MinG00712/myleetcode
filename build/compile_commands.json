@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/minji/CLionProjects/leetcode/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test.dir/src/test.cpp.o -c /home/minji/CLionProjects/leetcode/src/test.cpp",
+  "file": "/home/minji/CLionProjects/leetcode/src/test.cpp"
+},
+{
+  "directory": "/home/minji/CLionProjects/leetcode/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test1.dir/src/test1.cpp.o -c /home/minji/CLionProjects/leetcode/src/test1.cpp",
+  "file": "/home/minji/CLionProjects/leetcode/src/test1.cpp"
+}
+]
